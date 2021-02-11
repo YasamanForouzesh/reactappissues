@@ -1,8 +1,6 @@
 // Assignment: https://github.com/WDI-SEA/react-github-issues
 // Origin repo: https://github.com/YasamanForouzesh/reactappissues
 
-import Moment from 'moment'
-
 export default ShowIssue(props) {
     // const issue = FIND THE ISSUE FROM ISSUES WHERE THE :ID MATCHES ISSUE.NUMBER
     // BELOW FORMATTING NEEDS TO BE MODIFIED BECAUSE TRISHA WAS LOOKING AT THE ISSUES INDEX SCREENSHOT, AND NOT THE ISSUES DETAIL SCREENSHOT.
